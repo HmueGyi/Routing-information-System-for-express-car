@@ -18,7 +18,7 @@ Before running the project, ensure that you have the following software installe
 
 3. **Myanmar Font Installation for Kali Linux**:
    - For detailed instructions on how to add Myanmar fonts to Kali Linux, you can follow this YouTube video:
-     - [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://youtu.be/kI4T-wB4SIw?si=wBaIsaFBAN9jsOAf)
+     - [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://bit.ly/4iJMtIz)
 
 ## Installation Steps
 
