@@ -1,0 +1,16 @@
+-Run XAMPP Server on Kali Linux that is only for server side
+sudo su
+sudo cnmod 755 xampp-linux-x64-8.0.30-0-installer.run
+sudo ./xampp-linux-x64-8.0.30-0-installer.run
+sudo /opt/lampp/lampp start
+-for xampp server stop
+sudo /opt/lamp/lamp stop 
+
+-run server
+java -Djava.rmi.server.hostname=192.168.100.1 -cp mysql-connector-java-8.0.26.jar:jcalendar-1.4.jar:. BusRouteServer
+
+-run client
+java -Djava.rmi.server.hostname=192.168.100.2 AdminClient
+
+java -Djava.rmi.server.hostname=192.168.100.2 UserClient
+
