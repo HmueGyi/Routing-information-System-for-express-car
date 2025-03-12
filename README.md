@@ -44,7 +44,7 @@ Before running the project, ensure that you have the following software installe
    ```
 
 ### Stop XAMPP Server
-To stop the XAMPP server, run:
+To stop the XAMPP server:
 ```bash
 sudo /opt/lampp/lampp stop
 ```
