@@ -18,7 +18,7 @@ Before running the project, ensure that you have the following software installe
 
 3. **Myanmar Font Installation for Kali Linux**:
    - For detailed instructions on how to add Myanmar fonts to Kali Linux, you can follow this YouTube video:
-     - [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://bit.ly/4iJMtIz)
+     - [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://www.youtube.com/watch?v=kI4T-wB4SIw)
 
 ## Installation Steps
 
@@ -71,7 +71,7 @@ To start the client-side components, run the following commands:
 ## References
 - **JDK Installation**: [OpenJDK 11 for Kali Linux](https://packages.debian.org/buster/openjdk-11-jdk)
 - **XAMPP Installation**: [XAMPP for Linux](https://www.apachefriends.org/index.html)
-- **Myanmar Font Installation**: [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://youtu.be/kI4T-wB4SIw?si=wBaIsaFBAN9jsOAf)
+- **Myanmar Font Installation**: [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://www.youtube.com/watch?v=kI4T-wB4SIw)
 
 ## Project Details
 This project is a Routing Information system that provides express car routing using RMI technology in Java.
