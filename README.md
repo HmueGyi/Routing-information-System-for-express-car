@@ -12,9 +12,13 @@ Before running the project, ensure that you have the following software installe
    - Alternatively, for Oracle JDK:
      - [Oracle JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
-2. **XAMPP Server**: (sometime you need VPN to install XAMPP package)
+2. **XAMPP Server**:
    - To download and install XAMPP for Kali Linux, visit the official Apache Friends website:
      - [XAMPP for Linux](https://www.apachefriends.org/index.html)
+
+3. **Myanmar Font Installation for Kali Linux**:
+   - For detailed instructions on how to add Myanmar fonts to Kali Linux, you can follow this YouTube video:
+     - [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://youtu.be/kI4T-wB4SIw?si=doQh5T9XNKPGa1Ig)
 
 ## Installation Steps
 
@@ -65,8 +69,9 @@ To start the client-side components, run the following commands:
   ```
 
 ## References
-- **JDK Installation**: [OpenJDK 11 for Kali Linux](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-debian-11)
+- **JDK Installation**: [OpenJDK 11 for Kali Linux](https://packages.debian.org/buster/openjdk-11-jdk)
 - **XAMPP Installation**: [XAMPP for Linux](https://www.apachefriends.org/index.html)
+- **Myanmar Font Installation**: [Add Myanmar Fonts on Kali Linux - YouTube Tutorial](https://youtu.be/kI4T-wB4SIw?si=doQh5T9XNKPGa1Ig)
 
 ## Project Details
 This project is a Routing Information system that provides express car routing using RMI technology in Java.
