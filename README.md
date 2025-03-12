@@ -60,12 +60,12 @@ To start the client-side components, run the following commands:
 
 - For the admin client:
   ```bash
-  java -Djava.rmi.server.hostname=192.168.100.2 AdminClient
+  java -cp mysql-connector-java-8.0.26.jar:jcalendar-1.4.jar:. AdminClient
   ```
 
 - For the user client:
   ```bash
-  java -Djava.rmi.server.hostname=192.168.100.2 UserClient
+  java -cp mysql-connector-java-8.0.26.jar:jcalendar-1.4.jar:. UserClient
   ```
 
 ## References
